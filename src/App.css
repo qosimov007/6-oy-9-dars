@@ -1,0 +1,17 @@
+ 
+ body{
+    background: linear-gradient(90deg, #1F3040 51.33%, #FF9442 51.5%);
+
+ }
+ .container{
+    margin-top: 100px;
+}
+.form-label{
+    color: white;
+}
+.text-center{
+    color: white;
+}
+.btn{
+    width: 100%;
+}
